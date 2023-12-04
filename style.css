@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(18, 19, 18);
+    color: rgb(252, 252, 247);
+}
+
+
+.formm{
+    height: 40vh;
+    background-color: rgb(241, 247, 195);
+    overflow:auto;
+    text-align: center;
+    border-radius: 5px;
+}
+.formma{
+    height: 40vh;
+    background-color: rgb(195, 247, 195);
+    overflow:auto;
+    text-align: center;
+    border-radius: 5px;
+}
+
+td{
+    min-width: 20px;
+    max-width: 250px;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    overflow: hidden;
+}
+h4{
+    color: aquamarine;
+    text-align: center;
+}
+form{
+    border: 2px solid gray;
+    padding: 20px 50px;
+}
+
+.bouton{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.bbtn{
+    border: 1px solid aqua;
+    color: aqua;
+    border-radius: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.bbtn:hover{
+    background-color:aqua;
+    color: rgb(44, 1, 44);
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.bbtn1{
+    border: 1px solid gold;
+    color: gold;
+    border-radius: 30px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.bbtn1:hover{
+    background-color:gold;
+    color: rgb(44, 1, 44);
+    border-radius: 30px;
+    font-weight: bold;
+}
